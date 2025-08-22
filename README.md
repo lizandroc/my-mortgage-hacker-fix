@@ -185,4 +185,4 @@ Copyright © 2024 MyMortgageHackers LLC. All rights reserved.
 
 ---
 
-**Built with ❤️ for homebuyers and mortgage professionals**
+**Built with ❤️ for homebuyers and mortgage professionals**<!-- Deployment fix Fri Aug 22 19:35:04 UTC 2025 -->
